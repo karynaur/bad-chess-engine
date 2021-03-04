@@ -35,6 +35,8 @@ A global sum is used to keep track of black's evaluation score after each move, 
 <img src="Game-screenshot-1.jpeg" width ="800" height="500">
 </p>
 
+<h3>Parody project built for fun XD</h3>
+
 ## Acknowledgement/References
 1. Wikipedia.com for the chess pieces
 2. https://www.freecodecamp.org/news/simple-chess-ai-step-by-step-1d55a9266977/
@@ -46,4 +48,7 @@ A global sum is used to keep track of black's evaluation score after each move, 
 8. https://www.chessprogramming.org/Piece-Square_Tables
 
 ## License
-Use of this project is governed by the [MIT License](LICENSE).
+Use of this project is governed by the [MIT License](LICENSE). <br>
+Special thanks to all our supporters <3: <br>
+[![Stargazers repo roster for @Prasanna28Devadiga/bad-chess-engine](https://reporoster.com/stars/Prasanna28Devadiga/bad-chess-engine)](https://github.com/Prasanna28Devadiga/bad-chess-engine/stargazers)
+[![Forkers repo roster for @Prasanna28Devadiga/bad-chess-engine](https://reporoster.com/forks/Prasanna28Devadiga/bad-chess-engine)](https://github.com/Prasanna28Devadiga/bad-chess-engine/network/members)
